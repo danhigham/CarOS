@@ -1,0 +1,17 @@
+﻿Bluetooth Integration
+	- Pairing mobile device (Configuration app?)
+	- Network access via device
+	- Notifications
+
+Canbus Library
+	- Integration with canbus triple
+
+Apps
+	- Navigation
+	- Soundcloud
+	- Mixcloud
+	- Extended Dashboard
+	- Camera Input (Reverse Parking Camera)
+	- Browser
+	- Email Client
+	- Movie Player (Youtube?)

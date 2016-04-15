@@ -1,0 +1,26 @@
+GtkWindow {
+  background-color: #333;
+  background-repeat: no-repeat;
+  background-image: url('Assets/bg.png');
+}
+
+GtkSeparator {
+  color: #BCBCBC;
+}
+
+.separator {
+  background-color: #000;
+}
+
+.label { 
+  font-family: "Droid Sans";
+  color: #4C4C4C; 
+}
+
+.header {
+ 	border-bottom: 5px solid #4C4C4C;
+}
+
+.header > .label { 
+   font-size: 15px; 
+}
